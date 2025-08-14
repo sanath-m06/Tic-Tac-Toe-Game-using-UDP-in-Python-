@@ -18,5 +18,5 @@ A simple two-player tic-tac-toe game played over a local network using Python an
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-network.git
+   git clone https://github.com/sanath-m06/Tic-Tac-Toe-Game-using-UDP-in-Python-
    cd tic-tac-toe-network

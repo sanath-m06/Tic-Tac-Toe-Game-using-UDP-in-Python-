@@ -20,3 +20,13 @@ A simple two-player tic-tac-toe game played over a local network using Python an
    ```bash
    git clone https://github.com/sanath-m06/Tic-Tac-Toe-Game-using-UDP-in-Python-
    cd tic-tac-toe-network
+## How to run
+1.Run Server (in 1st PC)
+   ```bash
+   python server.py
+```
+2. Run Client (in both PCs)
+   ```bash
+   python client.py
+```
+   
